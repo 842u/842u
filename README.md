@@ -12,10 +12,10 @@
   <div align="right">
     <b>Find me here:</b><br>
     <!--  WEBSITE  -->
-    <a href="https://842u.github.io/" target="_blank">
+    <a href="https://842u.github.io/">
       <img width="30" height="30" src="./img/logo-globe-yellow.svg" alt="Website Logo" title="My website" /></a>
     <!--  LINKEDIN  -->
-    <a href="https://www.linkedin.com/in/kamil-ba%C5%BCanow-025837234/" target="_blank">
+    <a href="https://www.linkedin.com/in/kamil-ba%C5%BCanow-025837234/">
       <img width="30" height="30" src="./img/logo-linkedin-yellow.svg" alt="Linkedin Logo" title="My Linkedin profile" /></a>
   </div>
 </div>
@@ -30,32 +30,32 @@
       <tr>
         <td>
           <!--  VSCODE  -->
-          <a href="https://code.visualstudio.com/" target="_blank">
+          <a href="https://code.visualstudio.com/">
             <img align="center" width="50" height="50" src="./img/logo-vscode-yellow.svg" alt="VScode Logo" title="Visual Studio Code" /></a>
         </td>
         <td>
           <!--  HTML  -->
-          <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
+          <a href="https://html.spec.whatwg.org/multipage/">
             <img align="center" width="50" height="50" src="./img/logo-html-yellow.svg" alt="HTML Logo" title="HTML" /></a>
         </td>
         <td>
           <!--  CSS  -->
-          <a href="https://www.w3.org/Style/CSS/" target="_blank">
+          <a href="https://www.w3.org/Style/CSS/">
             <img align="center" width="50" height="50" src="./img/logo-css-yellow.svg" alt="CSS Logo" title="CSS" /></a>
         </td>
         <td>
           <!--  JS  -->
-          <a href="https://tc39.es/" target="_blank">
+          <a href="https://tc39.es/">
             <img align="center" width="50" height="50" src="./img/logo-javascript-yellow.svg" alt="JavaScript Logo" title="JavaScript" /></a>
         </td>
         <td>
           <!--  GIT  -->
-          <a href="https://git-scm.com/" target="_blank">
+          <a href="https://git-scm.com/">
             <img align="center" width="50" height="50" src="./img/logo-git-yellow.svg" alt="Git Logo" title="git" /></a>
         </td>
         <td>
           <!--  GITHUB  -->
-          <a href="https://github.com/" target="_blank">
+          <a href="https://github.com/">
             <img align="center" width="50" height="50" src="./img/logo-github-yellow.svg" alt="GitHub Logo" title="GitHub" /></a>
         </td>
       </tr>
@@ -68,32 +68,32 @@
       <tr>
         <td>
           <!--  SASS  -->
-          <a href="https://sass-lang.com/" target="_blank">
+          <a href="https://sass-lang.com/">
             <img align="center" width="50" height="50" src="./img/logo-sass-yellow.svg" alt="Sass Logo" title="Sass" /></a>
         </td>
         <td>
           <!--  TS  -->
-          <a href="https://www.typescriptlang.org/" target="_blank">
+          <a href="https://www.typescriptlang.org/">
             <img align="center" width="50" height="50" src="./img/logo-typescript-yellow.svg" alt="TypeScript Logo" title="TypeScript" /></a>
         </td>
         <td>
           <!--  REACT  -->
-          <a href="https://reactjs.org/" target="_blank">
+          <a href="https://reactjs.org/">
             <img align="center" width="50" height="50" src="./img/logo-react-yellow.svg" alt="React Logo" title="React" /></a>
         </td>
         <td>
           <!--  THREEJS  -->
-          <a href="https://threejs.org/" target="_blank">
+          <a href="https://threejs.org/">
             <img align="center" width="50" height="50" src="./img/logo-threejs-yellow.svg" alt="Three.js Logo" title="Three.js" /></a>
         </td>
         <td>
           <!--  PYTHON  -->
-          <a href="https://www.python.org/" target="_blank">
+          <a href="https://www.python.org/">
             <img align="center" width="50" height="50" src="./img/logo-python-yellow.svg" alt="Python Logo" title="Python" /></a>
         </td>
         <td>
           <!--  DJANGO  -->
-          <a href="https://www.djangoproject.com/" target="_blank">
+          <a href="https://www.djangoproject.com/">
             <img align="center" width="50" height="50" src="./img/logo-django-yellow.svg" alt="Django Logo" title="Django" /></a>
         </td>
       </tr>
