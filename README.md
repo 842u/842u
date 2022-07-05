@@ -74,27 +74,27 @@
         <td>
           <!--  TS  -->
           <a href="https://www.typescriptlang.org/" target="_blank">
-            <img align="center" width="50" height="50" src="./img/logo-typescript-yellow.svg" alt="TypeScript Logo" title="TypeScript"/></a>
+            <img align="center" width="50" height="50" src="./img/logo-typescript-yellow.svg" alt="TypeScript Logo" title="TypeScript" /></a>
         </td>
         <td>
           <!--  REACT  -->
           <a href="https://reactjs.org/" target="_blank">
-            <img align="center" width="50" height="50" src="./img/logo-react-yellow.svg" alt="React Logo" title="React"/></a>
+            <img align="center" width="50" height="50" src="./img/logo-react-yellow.svg" alt="React Logo" title="React" /></a>
         </td>
         <td>
           <!--  THREEJS  -->
           <a href="https://threejs.org/" target="_blank">
-            <img align="center" width="50" height="50" src="./img/logo-threejs-yellow.svg" alt="Three.js Logo" title="Three.js"/></a>
+            <img align="center" width="50" height="50" src="./img/logo-threejs-yellow.svg" alt="Three.js Logo" title="Three.js" /></a>
         </td>
         <td>
           <!--  PYTHON  -->
           <a href="https://www.python.org/" target="_blank">
-            <img align="center" width="50" height="50" src="./img/logo-python-yellow.svg" alt="Python Logo" title="Python"/></a>
+            <img align="center" width="50" height="50" src="./img/logo-python-yellow.svg" alt="Python Logo" title="Python" /></a>
         </td>
         <td>
           <!--  DJANGO  -->
           <a href="https://www.djangoproject.com/" target="_blank">
-            <img align="center" width="50" height="50" src="./img/logo-django-yellow.svg" alt="Django Logo" title="Django"/></a>
+            <img align="center" width="50" height="50" src="./img/logo-django-yellow.svg" alt="Django Logo" title="Django" /></a>
         </td>
       </tr>
     </table>
