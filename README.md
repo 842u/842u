@@ -25,7 +25,7 @@
 <ul>
   <!--  FAMILIAR  -->
   <li>
-    <h3>Familiar & constantly learning:</h3>
+    <h3>Familiar:</h3>
     <table>
       <tr>
         <td>
@@ -61,9 +61,9 @@
       </tr>
     </table>
   </li>
-  <!--  PLANS  -->
+  <!--  LEARNING  -->
   <li>
-    <h3>Would like to know:</h3>
+    <h3>Learning:</h3>
     <table>
       <tr>
         <td>
@@ -76,6 +76,14 @@
           <a href="https://www.typescriptlang.org/">
             <img align="center" width="50" height="50" src="./img/logo-typescript-yellow.svg" alt="TypeScript Logo" title="TypeScript" /></a>
         </td>
+      </tr>
+    </table>
+  </li>
+  <!--  PLANS  -->
+  <li>
+    <h3>Would like to learn:</h3>
+    <table>
+      <tr>        
         <td>
           <!--  REACT  -->
           <a href="https://reactjs.org/">
