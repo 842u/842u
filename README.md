@@ -90,6 +90,21 @@
             <img align="center" width="50" height="50" src="./img/logo-react-yellow.svg" alt="React Logo" title="React" /></a>
         </td>
         <td>
+          <!--  NPM  -->
+          <a href="https://www.npmjs.com/">
+            <img align="center" width="50" height="50" src="./img/logo-npm-yellow.svg" alt="npm Logo" title="npm" /></a>
+        </td>
+        <td>
+          <!--  VITE  -->
+          <a href="https://vitejs.dev/">
+            <img align="center" width="50" height="50" src="./img/logo-vite-yellow.svg" alt="Vite Logo" title="Vite" /></a>
+        </td>
+        <td>
+          <!--  WEBPACK  -->
+          <a href="https://webpack.js.org/">
+            <img align="center" width="50" height="50" src="./img/logo-webpack-yellow.svg" alt="Webpack Logo" title="Webpack" /></a>
+        </td>
+        <td>
           <!--  NODEJS  -->
           <a href="https://nodejs.org/en/">
             <img align="center" width="50" height="50" src="./img/logo-nodejs-yellow.svg" alt="Node.js Logo" title="Node.js" /></a>
@@ -98,6 +113,11 @@
           <!--  THREEJS  -->
           <a href="https://threejs.org/">
             <img align="center" width="50" height="50" src="./img/logo-threejs-yellow.svg" alt="Three.js Logo" title="Three.js" /></a>
+        </td>
+        <td>
+          <!--  FIGMA  -->
+          <a href="https://www.figma.com/">
+            <img align="center" width="50" height="50" src="./img/logo-figma-yellow.svg" alt="Figma Logo" title="Figma" /></a>
         </td>
         <td>
           <!--  PYTHON  -->
