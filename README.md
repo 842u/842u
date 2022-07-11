@@ -90,6 +90,11 @@
             <img align="center" width="50" height="50" src="./img/logo-react-yellow.svg" alt="React Logo" title="React" /></a>
         </td>
         <td>
+          <!--  NODEJS  -->
+          <a href="https://nodejs.org/en/">
+            <img align="center" width="50" height="50" src="./img/logo-nodejs-yellow.svg" alt="Node.js Logo" title="Node.js" /></a>
+        </td>
+        <td>
           <!--  THREEJS  -->
           <a href="https://threejs.org/">
             <img align="center" width="50" height="50" src="./img/logo-threejs-yellow.svg" alt="Three.js Logo" title="Three.js" /></a>
