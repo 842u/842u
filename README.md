@@ -29,10 +29,10 @@
     <table>
       <tr>
         <!--  VSCODE  -->
-        <td>
-          <a href="https://code.visualstudio.com/">
-            <img align="center" width="50" height="50" src="./img/logo-vscode-yellow.svg" alt="VScode Logo" title="Visual Studio Code" /></a>
-        </td>
+        //<td>
+          //<a href="https://code.visualstudio.com/">
+            //<img align="center" width="50" height="50" src="./img/logo-vscode-yellow.svg" alt="VScode Logo" title="Visual Studio Code" /></a>
+        //</td>
         <td>
           <!--  HTML  -->
           <a href="https://html.spec.whatwg.org/multipage/">
